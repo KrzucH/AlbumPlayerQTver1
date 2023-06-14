@@ -24,5 +24,3 @@ https://www.youtube.com/watch?v=JFIHc3mh8-E
 ## How to compile and run
 
 Program is working by using local directions of music!!!
-This is ver1 of program so is still something to do :)
-
