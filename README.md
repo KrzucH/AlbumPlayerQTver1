@@ -12,7 +12,7 @@ Krzysztof N (https://github.com/KrzucH)
 
 [![IMAGE ALT TEXT](Pictures/YouTube.png)](https://www.youtube.com/watch?v=3U-h5jLBDIg&ab_channel=KrzysztofNowak "AlbumPlayer by Krzuch")
 
-https://www.youtube.com/watch?v=JFIHc3mh8-E
+https://www.youtube.com/watch?v=3U-h5jLBDIg
 
 ## Pictures
 
